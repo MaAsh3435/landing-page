@@ -1,0 +1,12 @@
+#header {
+    display: flex;
+    background-color: aqua;
+}
+
+#header-title {
+    justify-content: center;
+}
+
+#header-pages {
+    justify-content: flex-end;
+}
